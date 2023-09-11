@@ -1,5 +1,5 @@
-# Thesis-WeiHsiang-Huang-AnEnsembleModelIntegratingNoiseAndEdgeInformation
-中文手寫字辨識之新方法：結合雜訊與 邊緣資訊之集成式模型
+# 中文手寫字辨識＿結合雜訊與邊緣資訊之集成式模型
++ 論文名稱：中文手寫字辨識之新方法：結合雜訊與邊緣資訊之集成式模型(An Ensemble Model Integrating Noise And Edge Information)
 + 研究生：黃煒翔
 + 與台師大和會考中心合作，協助開發中文手寫字辨識系統，並將應用於國中會考作文辨識上。本研究目的為解決字跡潦草及帶有雜訊的影像導致辨識降低的問題。透過結合雜訊、手寫字邊緣資訊提高模型的泛化能力，再透過集成式方法進一步提升整體效能。此研究方法測試於ICDAR中文手寫辨識競賽獲得96.97%的正確率，提高了2.2%。
 
